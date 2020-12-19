@@ -1,0 +1,1 @@
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.4.1.RELEASE&packaging=jar&jvmVersion=11&groupId=com.example&artifactId=concept&name=concept&description=Concept%20robotics%20project%20for%20Spring%20Boot&packageName=com.example.concept&dependencies=oauth2-client,devtools,lombok,data-jpa,data-jpa,security,thymeleaf,websocket,postgresql
